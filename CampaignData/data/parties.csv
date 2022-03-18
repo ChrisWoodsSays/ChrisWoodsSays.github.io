@@ -1,0 +1,12 @@
+﻿partyOrder,party,partyName,partyColour
+1,Con,Conservative,#0087DC
+2,Lab,Labour,#DC241f
+3,SNP,SNP,#FDF38E
+4,LibDem,Lib. Democrat,#FAA61A
+5,DUP,DUP,#D46A4C
+6,SF,Sinn Féin,#326760
+7,PC,Plaid Cymru,#008142
+8,SDLP,SDLP (NI),#2AA82C
+9,Green,Green,#528D6B
+10,Alliance,Alliance INI,#F6CB2F
+20,Other,Other,darkgrey 
